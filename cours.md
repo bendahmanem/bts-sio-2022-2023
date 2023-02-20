@@ -39,6 +39,7 @@ L'edition ou l'ajout de fichier dans ce repo sera detecte par Git, pour le visua
 ```
     git status
 ```
+une modification
 
 Avant de sauvegarder les modifications, il faut ajouter les modifications que l'on souhaite sauvegarder avec la commande : 
 ```
